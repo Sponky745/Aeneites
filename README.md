@@ -1,2 +1,2 @@
 # Aeneites
-The bibles in JS
+The bibites in JS
